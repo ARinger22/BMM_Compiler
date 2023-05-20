@@ -14,8 +14,7 @@
   <p align="center">
     A compiler for a simple language (called B--) from scratch
     <br />
-    <a href="https://github.com/anushthaPrakash/BMM_Compiler/blob/main/Docs.pdf"><strong>Explore the docs »</strong></a>
-    <a href="https://github.com/anushthaPrakash/BMM_Compiler/blob/main/README.txt)"><strong>Explore the problem statement »</strong></a>
+    <a href="https://github.com/anushthaPrakash/BMM_Compiler/blob/main/Docs.pdf"><strong>Explore the problem statement »</strong></a>
  
   </p>
 </p>
