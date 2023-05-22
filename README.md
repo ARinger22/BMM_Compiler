@@ -55,7 +55,7 @@
     ./bmm
   </code></pre>
 </ul>
-<h3 id = "files" >Files Specification</h3>
+<h2 id = "files" >Files Specification</h2>
   
   <h4>Directory Structure</h4>
   <pre><code>
